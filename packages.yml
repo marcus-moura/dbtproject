@@ -1,0 +1,4 @@
+packages:
+  - package: dbt-labs/logging
+    version: 0.6.0
+    
